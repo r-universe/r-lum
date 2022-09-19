@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "Luminescence"]
-	path = Luminescence
-	url = https://github.com/r-lum/luminescence
-	shallow = true
-	registered = true
 [submodule "RCarb"]
 	path = RCarb
 	url = https://github.com/r-lum/rcarb
