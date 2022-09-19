@@ -1,5 +1,9 @@
 [
   {
+    "package": "Luminescence",
+    "oncran": true
+  },
+  {
     "package": "RCarb",
     "oncran": true
   },
