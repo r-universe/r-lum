@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RLumModel"]
+	path = RLumModel
+	url = https://github.com/r-lum/rlummodel
+	shallow = true
+	registered = true
+[submodule "RLumCarlo"]
+	path = RLumCarlo
+	url = https://github.com/r-lum/rlumcarlo
+	shallow = true
+	registered = true
 [submodule "Luminescence"]
 	path = Luminescence
 	url = https://github.com/r-lum/luminescence
@@ -11,16 +21,6 @@
 [submodule "RCarb"]
 	path = RCarb
 	url = https://github.com/r-lum/rcarb
-	shallow = true
-	registered = true
-[submodule "RLumCarlo"]
-	path = RLumCarlo
-	url = https://github.com/r-lum/rlumcarlo
-	shallow = true
-	registered = true
-[submodule "RLumModel"]
-	path = RLumModel
-	url = https://github.com/r-lum/rlummodel
 	shallow = true
 	registered = true
 [submodule "rxylib"]

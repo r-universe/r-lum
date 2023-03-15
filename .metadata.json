@@ -1,10 +1,6 @@
 [
   {
-    "package": "Luminescence",
-    "oncran": true
-  },
-  {
-    "package": "RCarb",
+    "package": "RLumModel",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "RLumModel",
+    "package": "Luminescence",
+    "oncran": true
+  },
+  {
+    "package": "RCarb",
     "oncran": true
   },
   {
