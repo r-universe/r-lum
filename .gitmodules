@@ -17,3 +17,6 @@
 [submodule "rxylib"]
 	path = rxylib
 	url = https://github.com/r-lum/rxylib
+[submodule "xlum"]
+	path = xlum
+	url = https://github.com/r-lum/xlum
